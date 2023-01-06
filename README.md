@@ -16,24 +16,16 @@
   <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
 </p>
-
+<hr>
 
 <div align="center">
-
-<br/> 
+<br> 
 
 ### 👉 [Blog](https://blog.naver.com/hshf123) 👈
 <br>
+<hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshf123&show_icons=true&theme=react)
 
 </p>
-<hr>
 
-<div align=center>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hshf123)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshf123&show_icons=true&theme=react)
-
-</div>
