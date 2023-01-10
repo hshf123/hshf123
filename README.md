@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Sanghyun&fontSize=70&animation=twinkling)
 
-<h3 align="center">🛠 SKills 🛠</h3>
+<h3 align="center">🛠 Skills 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
