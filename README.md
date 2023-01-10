@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SanghyunHan&fontSize=70&animation=twinkling)
 
-<h3 align="center">🛠 Tech 🛠</h3>
+<h3 align="center">🛠 SKills 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
@@ -20,12 +20,11 @@
 
 <div align="center">
 <br> 
-
-### 👉 [Blog](https://blog.naver.com/hshf123) 👈
+  ### 👉 [Study Blog](https://blog.naver.com/hshf123) 👈
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hshf123)](https://solved.ac/hshf123/)
 <br>
 <hr>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshf123&show_icons=true&theme=react)
-
-</p>
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hshf123&show_icons=true&theme=midnight-purple)  <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshf123&layout=compact&theme=nord&hide_border=true" /></a>
 
