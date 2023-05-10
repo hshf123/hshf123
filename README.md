@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/-Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/-Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/></a>&nbsp
 </p>
 
 <hr>
